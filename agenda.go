@@ -6,9 +6,10 @@ func main() {
   fmt.Println("hi")
 
 Println("Agenda")
-Println()
-
-
+Println("Options")
+Println("#1")
+Println("Options")
+Println("Options")
 
 
 }
