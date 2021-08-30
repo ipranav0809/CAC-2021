@@ -3,7 +3,7 @@ import (
 )
 
 func main() {
-  fmt.Println("hi")
+  fmt.Println("A checklist to check off what you have to do")
 
 
 
